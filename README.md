@@ -1,6 +1,5 @@
-# PIRIS Marius GP3
+# GOAP an AI Experiment
 
-Bonjour
 Sur la scène il y a deux IA : Jean et Robert
 
 Par défaut, les deux ont pour goal de tuer l'ennemi tout en se sentant relaxé (il faut fumer une cigarette pour se sentir relaxé...)
@@ -39,6 +38,3 @@ Multi-agents concurrents
 Ajout d’action annexe (SmokeCigarette) avec probabilité
 
 Passage à un BitArray (Dictionnaire -> WorldStateBit)
-
-
-Bonne journée :)
