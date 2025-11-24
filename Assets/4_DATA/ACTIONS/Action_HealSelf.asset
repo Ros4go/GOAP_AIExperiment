@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d2c18b1942481e48805c7f37c831a13, type: 3}
+  m_Name: Action_HealSelf
+  m_EditorClassIdentifier: 
+  ActionName: HealSelf
+  Cost: 1
+  preconditions:
+  - Key: 4
+    Value: 1
+  - Key: 7
+    Value: 0
+  - Key: 3
+    Value: 0
+  effects:
+  - Key: 4
+    Value: 0
