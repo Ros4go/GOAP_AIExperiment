@@ -15,6 +15,8 @@ Donc il va commencer à fuire (se déplacer aléatoirement)
 
 De temps en temps, aléatoirement, le worldstate va les faire se sentir anxieux et donc quand ils vont replanifier automatiquement il est possible qu'ils aient de nouveau besoin de fumer un peu...
 
+![GOAP Exemple](Assets/Ressource/GOAP.gif)
+
 # Fait :
 
 Implémentation de GOAP avec actions : MoveToWeapon, MoveToEnnemy, PickUpWeapon, KillEnnemy, HealSelf
@@ -38,3 +40,5 @@ Multi-agents concurrents
 Ajout d’action annexe (SmokeCigarette) avec probabilité
 
 Passage à un BitArray (Dictionnaire -> WorldStateBit)
+
+![GOAP Exemple](Assets/Ressource/GOAP.mp4)
