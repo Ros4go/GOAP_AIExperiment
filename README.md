@@ -15,7 +15,7 @@ Donc il va commencer à fuire (se déplacer aléatoirement)
 
 De temps en temps, aléatoirement, le worldstate va les faire se sentir anxieux et donc quand ils vont replanifier automatiquement il est possible qu'ils aient de nouveau besoin de fumer un peu...
 
-![GOAP Exemple](Assets/Ressource/GOAP.gif)
+![GOAP Exemple](Assets/5_RESSOURCES/GOAP.gif)
 
 # Fait :
 
@@ -41,4 +41,4 @@ Ajout d’action annexe (SmokeCigarette) avec probabilité
 
 Passage à un BitArray (Dictionnaire -> WorldStateBit)
 
-![GOAP Exemple](Assets/Ressource/GOAP.mp4)
+![GOAP Exemple](Assets/5_RESSOURCES/GOAP.mp4)
